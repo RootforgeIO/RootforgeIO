@@ -31,35 +31,35 @@
   <circle cx="70" cy="21" r="6" fill="#3fb950"/>
 
   <!-- title -->
-  <text x="380" y="26" class="mono" font-size="12" fill="#6e7681" text-anchor="middle">rootforge — bash — 80×24</text>
+  <text x="380" y="26" class="mono" font-size="12" fill="#6e7681" text-anchor="middle">rootforgeio@github — bash — 80×24</text>
 
   <!-- separator -->
   <line x1="0" y1="42" x2="760" y2="42" stroke="#21262d" stroke-width="1"/>
 
   <!-- cmd: whoami -->
   <text x="24" y="76" class="mono l1" font-size="13">
-    <tspan fill="#7ee787">rootforge@github</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#c9d1d9">$ whoami</tspan>
+    <tspan fill="#7ee787">rootforgeio@github</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#c9d1d9">$ whoami</tspan>
   </text>
-  <text x="24" y="97"  class="mono l2" font-size="13" fill="#8b949e">builder · sys-eng · audio dev · 12+ yrs IT</text>
+  <text x="24" y="97"  class="mono l2" font-size="13" fill="#8b949e">maker · sys-eng · audio dev · 12+ yrs IT</text>
   <text x="24" y="116" class="mono l3" font-size="13" fill="#8b949e">Siberia · psyrain.ru</text>
 
   <!-- cmd: ls projects/ -->
   <text x="24" y="150" class="mono l4" font-size="13">
-    <tspan fill="#7ee787">rootforge@github</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#c9d1d9">$ ls projects/</tspan>
+    <tspan fill="#7ee787">rootforgeio@github</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#c9d1d9">$ ls projects/</tspan>
   </text>
   <text x="24" y="171" class="mono l5" font-size="13" fill="#c9d1d9">VST-Underbloom    VST_Tape_IY_Beats    Netology-VKinder    WhisperTXT</text>
   <text x="24" y="190" class="mono l6" font-size="13" fill="#8b949e">Aeterra    SiberianDomRadar    GlassPartials    HH_Collector ...</text>
 
   <!-- cmd: cat stack.txt -->
   <text x="24" y="224" class="mono l7" font-size="13">
-    <tspan fill="#7ee787">rootforge@github</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#c9d1d9">$ cat stack.txt</tspan>
+    <tspan fill="#7ee787">rootforgeio@github</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#c9d1d9">$ cat stack.txt</tspan>
   </text>
   <text x="24" y="245" class="mono l8" font-size="13" fill="#c9d1d9">python  c++/juce  javascript  html+css  sql  1c</text>
   <text x="24" y="264" class="mono l9" font-size="13" fill="#8b949e">active-directory  vmware  mikrotik  fl-studio  vst3/standalone</text>
 
   <!-- final prompt + blinking cursor -->
   <text x="24" y="300" class="mono l10" font-size="13">
-    <tspan fill="#7ee787">rootforge@github</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#c9d1d9">$ </tspan>
+    <tspan fill="#7ee787">rootforgeio@github</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#c9d1d9">$ </tspan>
   </text>
-  <rect class="cursor" x="183" y="286" width="8" height="16" fill="#7ee787"/>
+  <rect class="cursor" x="199" y="286" width="8" height="16" fill="#7ee787"/>
 </svg>
